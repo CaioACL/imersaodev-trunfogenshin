@@ -27,6 +27,7 @@ button {
     border-radius: 5px;
     border: none;
     font-size: 1rem;
+    position: center;
 }
 
 h2 {
